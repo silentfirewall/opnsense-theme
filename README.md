@@ -1,5 +1,5 @@
 # OPNsense Theme
-## Creating a custom theme for OPNsense involves modifying the frontend assets (CSS, images, etc.) and integrating it into the OPNsense framework. Below is a step-by-step guide:
+Creating a custom theme for OPNsense involves modifying the frontend assets (CSS, images, etc.) and integrating it into the OPNsense framework. Below is a step-by-step guide:
 
 ---
 
